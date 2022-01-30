@@ -29,8 +29,8 @@ Microsoft,Windows Hello Hardware Authenticator,,08987058-cadc-4b81-b6e1-30de50dc
 Microsoft,Windows Hello VBS Hardware Authenticator,,9ddd1817-af5a-4672-a2b9-3e3dd95000a9
 Thales,eToken FIDO,-,efb96b10-a9ee-4b6c-a4a9-d32125ccd4a4
 Thales,IDPrime MD 3940 FIDO,-,b50d5e0a-7f81-4959-9b12-f45407407503
-Yubico,Yubikey 5 (USB-A, No NFC),5.1,cb69481e-8ff7-4039-93ec-0a2729a154a8
-Yubico,YubiKey 5 (USB-A, No NFC),5.2, 5.4,ee882879-721c-4913-9775-3dfcce97072a
+Yubico,Yubikey 5 (USB-A No NFC),5.1,cb69481e-8ff7-4039-93ec-0a2729a154a8
+Yubico,YubiKey 5 (USB-A No NFC),5.2, 5.4,ee882879-721c-4913-9775-3dfcce97072a
 Yubico,YubiKey 5 NFC,5.1,fa2b99dc-9e39-4257-8f92-4a30d23c4118
 Yubico,YubiKey 5 NFC,5.2, 5.4,2fc0579f-8113-47ea-b116-bb5a8db9202a
 Yubico,YubiKey 5 NFC FIPS,5.4,c1f9a0bc-1dd2-404a-b27f-8e29047a43fd

@@ -32,20 +32,20 @@ Thales,IDPrime MD 3940 FIDO,-,b50d5e0a-7f81-4959-9b12-f45407407503
 Yubico,Yubikey 5 (USB-A No NFC),5.1,cb69481e-8ff7-4039-93ec-0a2729a154a8
 Yubico,YubiKey 5 (USB-A No NFC),5.2/5.4,ee882879-721c-4913-9775-3dfcce97072a
 Yubico,YubiKey 5 NFC,5.1,fa2b99dc-9e39-4257-8f92-4a30d23c4118
-Yubico,YubiKey 5 NFC,5.2, 5.4,2fc0579f-8113-47ea-b116-bb5a8db9202a
+Yubico,YubiKey 5 NFC,5.2/5.4,2fc0579f-8113-47ea-b116-bb5a8db9202a
 Yubico,YubiKey 5 NFC FIPS,5.4,c1f9a0bc-1dd2-404a-b27f-8e29047a43fd
 Yubico,YubiKey 5 Nano,5.1,cb69481e-8ff7-4039-93ec-0a2729a154a8
-Yubico,YubiKey 5 Nano,5.2, 5.4,ee882879-721c-4913-9775-3dfcce97072a
+Yubico,YubiKey 5 Nano,5.2/5.4,ee882879-721c-4913-9775-3dfcce97072a
 Yubico,YubiKey 5 Nano FIPS,5.4,73bb0cd4-e502-49b8-9c6f-b59445bf720b
 Yubico,YubiKey 5C,5.1,cb69481e-8ff7-4039-93ec-0a2729a154a8
-Yubico,YubiKey 5C,5.2, 5.4,ee882879-721c-4913-9775-3dfcce97072a
+Yubico,YubiKey 5C,5.2/5.4,ee882879-721c-4913-9775-3dfcce97072a
 Yubico,YubiKey 5C FIPS,5.4,73bb0cd4-e502-49b8-9c6f-b59445bf720b
 Yubico,YubiKey 5C Nano,5.1,cb69481e-8ff7-4039-93ec-0a2729a154a8
-Yubico,YubiKey 5C Nano,5.2, 5.4,ee882879-721c-4913-9775-3dfcce97072a
+Yubico,YubiKey 5C Nano,5.2/5.4,ee882879-721c-4913-9775-3dfcce97072a
 Yubico,YubiKey 5C Nano FIPS,5.4,73bb0cd4-e502-49b8-9c6f-b59445bf720b
-Yubico,YubiKey 5C NFC,5.2, 5.4,2fc0579f-8113-47ea-b116-bb5a8db9202a
+Yubico,YubiKey 5C NFC,5.2/5.4,2fc0579f-8113-47ea-b116-bb5a8db9202a
 Yubico,YubiKey 5C NFC FIPS,5.4,c1f9a0bc-1dd2-404a-b27f-8e29047a43fd
-Yubico,YubiKey 5Ci,5.2, 5.4,c5ef55ff-ad9a-4b9f-b580-adebafe026d0
+Yubico,YubiKey 5Ci,5.2/5.4,c5ef55ff-ad9a-4b9f-b580-adebafe026d0
 Yubico,YubiKey 5Ci FIPS,5.4,85203421-48f9-4355-9bc8-8a53846e5083
 Yubico,Security Key By Yubico,5.1,f8a011f3-8c0a-4d15-8006-17111f9edc7d
 Yubico,Security Key By Yubico,5.2,b92c3f9a-c014-4056-887f-140a2501163b

@@ -1,6 +1,7 @@
 MAKE,MODEL,FW,AAGUID
 Apple,FaceID,-,(all zeroes)
 Apple,TouchID,-,(all zeroes)
+Atos,CardOS FIDO2,-,1c086528-58d5-f211-823c-356786e36140
 Feitian,ePassFIDO K10,3.4.01,833b721a-ff5f-4d00-bb2e-bdda3ec01e29
 Feitian,ePassFIDO A4B,3.4.01,833b721a-ff5f-4d00-bb2e-bdda3ec01e29
 Feitian,ePassFIDO K28,3.4.01,833b721a-ff5f-4d00-bb2e-bdda3ec01e29
@@ -27,6 +28,8 @@ HID,Crescendo Key,-,692db549-7ae5-44d5-a1e5-dd20a493b723
 Microsoft,Windows Hello Software Authenticator,-,6028b017-b1d4-4c02-b4b3-afcdafc96bb2
 Microsoft,Windows Hello Hardware Authenticator,-,08987058-cadc-4b81-b6e1-30de50dcbe96
 Microsoft,Windows Hello VBS Hardware Authenticator,-,9ddd1817-af5a-4672-a2b9-3e3dd95000a9
+Octatco,EzFinger2,-,a1f52be5-dfab-4364-b51c-2bd496b14a56
+Octatco,EzFinger2,-,bc2fe499-0d8e-4ffe-96f3-94a82840cf8c
 Thales,eToken FIDO,-,efb96b10-a9ee-4b6c-a4a9-d32125ccd4a4
 Thales,IDPrime MD 3940 FIDO,-,b50d5e0a-7f81-4959-9b12-f45407407503
 TrustKey,G310,-,95442b2e-f15e-4def-b270-efb106facb4e
@@ -35,6 +38,7 @@ TrustKey,G320,-,87dbc5a1-4c94-4dc8-8a47-97d800fd1f3c
 TrustKey,G320H,-,87dbc5a1-4c94-4dc8-8a47-97d800fd1f3c
 TrustKey,T110,-,da776f39-f6c8-4a89-b252-1d86137a46ba
 TrustKey,T120,-,e3512a8a-62ae-11ea-bc55-0242ac130003
+Vancosys,Android Authenticator,-,39a5647e-1853-446c-a1f6-a79bae9f5bc7
 Yubico,Yubikey 5 (USB-A No NFC),5.1,cb69481e-8ff7-4039-93ec-0a2729a154a8
 Yubico,YubiKey 5 (USB-A No NFC),5.2/5.4,ee882879-721c-4913-9775-3dfcce97072a
 Yubico,YubiKey 5 NFC,5.1,fa2b99dc-9e39-4257-8f92-4a30d23c4118

@@ -8,8 +8,6 @@ Last updated: 2022-06-16 at 11:47
 ## Registry key
 The [file](https://github.com/JMarkstrom/fido/blob/main/Enable-Security-Key-Logon.reg) `Enable-Security-Key-Logon.reg` contains a registry key that will enable security key logon on Windows 10 & Windows 11.
 
-
-
 ### Usage
 To use this registry key, download it or save content to file (with .reg extension) and double-click on it.
 

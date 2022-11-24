@@ -11,6 +11,12 @@ The [file](https://github.com/JMarkstrom/fido/blob/main/Enable-Security-Key-Logo
 ### Usage
 To use this registry key, download it or save content to file (with .reg extension) and double-click on it.
 
+## Administrative template (ADMX)
+The archive [file](https://github.com/JMarkstrom/fido/blob/main/Enable-Security-Key-Sign-in-ADMX-1.0.zip) `Enable-Security-Key-Sign-in-ADMX-1.0.zip` adds security key sign-in as a GPO control to the existing credentialproviders.admx view (not the file itself) to "augment" a Windows Server GPO where this control is not yet available (e.g on Windows Server 2019 and earlier).
+
+### Usage
+For usage instructions, see readme.txt inside the archive.
+
 ## Provisioning package
 The [file](https://github.com/JMarkstrom/fido/raw/main/Enable-Security-Key-Sign-in-1.0.ppkg) `Enable-Security-Key-Sign-in-1.0.ppkg` contains a provisioning package that will enable security key logon on Windows 10 & Windows 11. The package is unsigned and not encryped.
 

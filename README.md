@@ -30,9 +30,10 @@ The [file](https://github.com/JMarkstrom/fido/blob/main/Disable-PasswordProvider
 
 ### Usage
 To use this registry key, download it or save content to file (with .reg extension) and double-click on it.
+To disable _ _additional_ _ credential providers you can expand this key using a listing provided at https://swjm.blog
 
 ## script
-The [file](https://github.com/JMarkstrom/fido/blob/main/Enforce_security_key_sign-in.ps1) `Enforce_security_key_sign-in.ps1` constitutes a PowerShell script meant for Microsoft Endpoint Manager (Intune) configuration of Windows 10 and 11 clients. The script is adapted from an original script created by Craig Wilson (https://craigwilson.blog/) and works by DISABLING alternative credential providers.
+The [file](https://github.com/JMarkstrom/fido/blob/main/Enforce_security_key_sign-in.ps1) `Enforce_security_key_sign-in.ps1` constitutes a PowerShell script meant for **Microsoft Endpoint Manager** (Intune) configuration of Windows 10 and 11 clients. The script is _ _adapted_ _ from an original script created by **Craig Wilson** (https://craigwilson.blog/) and works by DISABLING alternative credential providers.
 
 ### Usage
 See: https://swjm.blog

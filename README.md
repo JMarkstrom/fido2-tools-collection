@@ -8,8 +8,6 @@ Last updated: 2022-06-16 at 11:47
 ## Registry keys
 The [file](https://github.com/JMarkstrom/fido/blob/main/Enable-Security-Key-Logon.reg) `Enable-Security-Key-Logon.reg` contains a registry key that will enable security key logon on Windows 10 & Windows 11.
 
-The [file](https://github.com/JMarkstrom/fido/blob/main/Disable-PasswordProvider.reg) `Disable-PasswordProvider.reg` contains a registry key that will DISABLE password-based logon on Windows 10 & Windows 11.
-
 ### Usage
 To use this registry key, download it or save content to file (with .reg extension) and double-click on it.
 
@@ -24,3 +22,19 @@ The [file](https://github.com/JMarkstrom/fido/raw/main/Enable-Security-Key-Sign-
 
 ### Usage
 To use this package download it and double-click on it (or import into Windows Configuration Designer and go from there).
+
+# Enforce Security Key Logon
+
+## Registry keys
+The [file](https://github.com/JMarkstrom/fido/blob/main/Disable-PasswordProvider.reg) `Disable-PasswordProvider.reg` contains a registry key that will DISABLE password-based logon on Windows 10 & Windows 11.
+
+### Usage
+To use this registry key, download it or save content to file (with .reg extension) and double-click on it.
+
+## script
+The [file](https://github.com/JMarkstrom/fido/blob/main/Enforce_security_key_sign-in.ps1) `Enforce_security_key_sign-in.ps1` constitutes a PowerShell script meant for Microsoft Endpoint Manager (Intune) configuration of Windows 10 and 11 clients. The script is adapted from an original script created by Craig Wilson (https://craigwilson.blog/) and works by DISABLING alternative credential providers.
+
+### Usage
+See: https://swjm.blog
+
+

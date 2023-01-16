@@ -10,8 +10,12 @@
 # It then counts the number of each type of method and outputs the results.
 # For this script to work you must install the Microsoft Graph PowerShell module. 
 #
-# LIMITATIONS/ KNOWN ISSUES: N/A
-#
+# LIMITATIONS/ KNOWN ISSUES: 
+# 1. Counting the Microsoft Authenticator application using
+#    'microsoftAuthenticatorAuthenticationMethod' does not currently work.
+#    Instead the 'softwareOathAuthenticationMethod' is used. Note however that
+#    this method will include 3rd party authenticator apps.
+# 
 # ************************************************************************
 # DISCLAIMER: This script is provided "as-is" without any warranty of
 # any kind, either expressed or implied.

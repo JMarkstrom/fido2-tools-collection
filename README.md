@@ -39,3 +39,12 @@ The [file](https://github.com/JMarkstrom/fido/blob/main/Enforce_security_key_sig
 See: https://swjm.blog
 
 
+# Add Kerberos object from on-premise AD to Azure AD           
+The [file](https://github.com/JMarkstrom/fido/blob/main/Add-Kerberos-object-to-AAD.ps1) `Add-Kerberos-object-to-AAD.ps1` PowerShell script is designed to establish an Azure AD Kerberos Server object within your on-premise AD, enabling seamless FIDO2 (SSO) access to on-premise resources like network shares. It's important to note that this isn't mandatory for FIDO2 security key sign-in, but it does broaden the scope of security key utilization beyond PC login.
+
+### Usage
+See: https://swjm.blog
+
+
+
+

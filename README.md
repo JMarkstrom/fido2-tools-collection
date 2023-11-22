@@ -46,7 +46,7 @@ The [file](https://github.com/JMarkstrom/fido/blob/main/Add-Kerberos-object-to-A
 See: https://swjm.blog
 
 # Terms of Use (ToU) Passkeys
-The [file](https://github.com/JMarkstrom/fido/blob/main/Terms-of-Use-(ToU)-Passkeys.pdf) `Terms-of-Use-(ToU)-Passkeys.pdf` is an example of a "Terms of Use" (ToU) that can be presented to users when accessing company resource. This example ToU stipulates that users must set a non-trivial PIN on the security key and transfers the responsibility to the user. 
+The [file](https://github.com/JMarkstrom/fido/blob/main/Terms-of-Use-(ToU)-Passkeys.pdf) `Terms-of-Use-(ToU)-Passkeys.pdf` is an example of a "Terms of Use" (ToU) that can be presented to users when accessing company resources. This example ToU stipulates that users must set a non-trivial PIN on the security key and transfers the responsibility to the user. 
 
 ### 📖 Usage
 See: https://learn.microsoft.com/en-us/entra/identity/conditional-access/terms-of-use

@@ -8,6 +8,14 @@ The **YubiKey PIN Generator** is a Python script that facilitates configuration 
   
 ![](/images/yubikey-pin-gen.gif)
 
+## 💻 Prerequisites
+The following are prerequisites towards running the script:
+
+- Python installed on client
+- Python-fido2 installed on client
+- Yubikey Manager (CLI) installed on client. 
+
+*NOTE*: Refer to [swjm.blog](https://swjm.blog) for _detailed_ setup instructions.
 
 ### 📖 Usage
 To run the script, simply execute command: `python yubikey-pin-gen.py`

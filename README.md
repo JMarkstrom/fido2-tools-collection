@@ -1,3 +1,29 @@
+## YubiKey PIN Generator
+
+![](/images/yubikey-pin-gen.gif)
+
+
+### 📖 Usage
+To run the script, simply execute command: `python yubikey-pin-gen.py`
+
+*NOTE*: Refer to [swjm.blog](https://swjm.blog) for _detailed_ usage instructions.
+
+## 🗎 The output.json file
+The script will outout a file on working directory called output.json. 
+
+Here is an example: 
+
+```bash
+[
+    {
+      "Model": "YubiKey 5C NFC",
+      "Serial number": 12345678,
+      "PIN": "6855",
+      "PIN change required": true
+    }
+]
+```
+
 # Assembled list of Fido AAGUIDs 
 The AAGUID, short for "Authenticator Attestation Globally Unique Identifier" is part of the FIDO2 specification. The AAGUID (in most cases) identifies the authenticator _make and model_. As such it allows the Relying Party (RP) or Identity Provider (IdP) a simple way to include (or exclude) authenticators during registration/enrollment and authentication without for example implementing the Fido Metadata Service.
 

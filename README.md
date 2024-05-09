@@ -1,5 +1,11 @@
 ## YubiKey PIN Generator
+The **YubiKey PIN Generator** is a Python script that facilitates configuration of a YubiKey(s):
 
+- Sets a random and non-trivial PIN (default: ```4``` digits)
+- If selected (and supported by the YubiKey) sets PIN to expire on first use
+- Prints YubiKey model, serial number, intial PIN (and change flag) to a JSON output file
+- Prompts for configuration of additional YubiKey(s).
+  
 ![](/images/yubikey-pin-gen.gif)
 
 

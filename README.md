@@ -89,5 +89,8 @@ See: https://swjm.blog
 The [file](https://github.com/JMarkstrom/fido/blob/main/Terms-of-Use-(ToU)-Passkeys.pdf) `Terms-of-Use-(ToU)-Passkeys.pdf` is an example of a "Terms of Use" (ToU) that can be presented to users when accessing company resources. This example ToU stipulates that users must set a non-trivial PIN on the security key and transfers the responsibility to the user. 
 
 ### 📖 Usage
+
+![](/images/ToU.gif)
+
 See: https://swjm.blog
 

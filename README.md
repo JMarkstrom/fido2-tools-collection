@@ -92,5 +92,5 @@ The [file](https://github.com/JMarkstrom/fido/blob/main/Terms-of-Use-(ToU)-Passk
 
 ![](/images/ToU.gif)
 
-See: https://swjm.blog
+See: [swjm.blogfile](https://github.com/JMarkstrom/fido/blob/main/Terms-of-Use-(ToU)-Passkeys.pdf)
 

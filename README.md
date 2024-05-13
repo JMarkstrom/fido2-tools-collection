@@ -92,5 +92,5 @@ The [file](https://github.com/JMarkstrom/fido/blob/main/Terms-of-Use-(ToU)-Passk
 
 ![](/images/ToU.gif)
 
-See: [swjm.blogfile](https://github.com/JMarkstrom/fido/blob/main/Terms-of-Use-(ToU)-Passkeys.pdf)
+See: [swjm.blog](https://swjm.blog/implementing-a-fido2-terms-of-use-tou-for-microsoft-entra-637dcb5ca142)
 

@@ -20,7 +20,7 @@ The following are prerequisites towards running the script:
 ### 📖 Usage
 To run the script, simply execute command: `python yubikey-pin-gen.py`
 
-*NOTE*: Refer to [swjm.blog](https://swjm.blog) for _detailed_ usage instructions.
+**NOTE**: Refer to [swjm.blog](https://swjm.blog) for _detailed_ usage instructions.
 
 ## 🗎 The output.json file
 The script will outout a file on working directory called output.json. 

@@ -15,7 +15,7 @@ The following are prerequisites towards running the script:
 - [Python-fido2](https://github.com/Yubico/python-fido2) installed on client
 - [Yubikey Manager](https://github.com/Yubico/yubikey-manager) (CLI) installed on client. 
 
-*NOTE*: Refer to [swjm.blog](https://swjm.blog) for _detailed_ setup instructions.
+**NOTE**: Refer to [swjm.blog](https://swjm.blog) for _detailed_ setup instructions.
 
 ### 📖 Usage
 To run the script, simply execute command: `python yubikey-pin-gen.py`

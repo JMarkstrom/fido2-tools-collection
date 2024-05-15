@@ -39,8 +39,7 @@ Here is an example:
 ```
 
 # Assembled list of Fido AAGUIDs 
-The AAGUID, short for "Authenticator Attestation Globally Unique Identifier" is part of the FIDO2 specification. The AAGUID (in most cases) identifies the authenticator _make and model_. As such it allows the Relying Party (RP) or Identity Provider (IdP) a simple way to include (or exclude) authenticators during registration/enrollment and authentication without for example implementing the Fido Metadata Service.
-
+The AAGUID, short for "Authenticator Attestation Globally Unique Identifier" is part of the FIDO2 specification. The AAGUID (in most cases) identifies the authenticator _make and model_. As such it allows the Relying Party (RP) or Identity Provider (IdP) a simple way to include (or exclude) authenticators during registration/enrollment and authentication without for example implementing the Fido Metadata Service. A CSV can be found [here](https://github.com/JMarkstrom/fido/blob/main/FIDO2-AAGUIDs.csv).
 Last updated: ```2024-05-15``` at ```17:00``` CET
 
 # Enable Security Key Logon

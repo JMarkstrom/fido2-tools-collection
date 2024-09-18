@@ -1,3 +1,13 @@
+# FIDO2 Tools Collection
+
+## Table of Contents  
+[YubiKey PIN Generator](#yubikey-pin-generator)  
+[Assembled list of Fido AAGUIDs ](#assembled-list-of-fido-aaguids)  
+[Enforce Security Key Logon](#enforce-security-key-logon)  
+[Add Kerberos object from on-premise AD to Azure AD](#add-kerberos-object-from-on-premise-ad-to-azure-ad)  
+[Terms of Use (ToU) Passkeys](#terms-of-use-tou-passkeys)  
+
+
 ## YubiKey PIN Generator
 The [YubiKey PIN Generator](/yubikey-pin-gen.py) is a Python script that facilitates configuration of a YubiKey(s). The script:
 

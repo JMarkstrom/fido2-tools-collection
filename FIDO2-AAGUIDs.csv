@@ -55,6 +55,7 @@ Yubico,YubiKey 5 NFC,2fc0579f-8113-47ea-b116-bb5a8db9202a
 Yubico,YubiKey 5 NFC,a25342c0-3cdc-4414-8e46-f4807fca511c
 Yubico,YubiKey 5 NFC,1ac71f64468d4fe0bef10e5f2f551f18
 Yubico,YubiKey 5 NFC FIPS,c1f9a0bc-1dd2-404a-b27f-8e29047a43fd
+Yubico,YubiKey 5 NFC,1ac71f64-468d-4fe0-bef1-0e5f2f551f18
 Yubico,YubiKey 5C NFC,a25342c0-3cdc-4414-8e46-f4807fca511c
 Yubico,YubiKey 5C NFC,1ac71f64468d4fe0bef10e5f2f551f18
 Yubico,YubiKey 5 Nano,cb69481e-8ff7-4039-93ec-0a2729a154a8
@@ -62,28 +63,38 @@ Yubico,YubiKey 5 Nano,ee882879-721c-4913-9775-3dfcce97072a
 Yubico,YubiKey 5 Nano FIPS,73bb0cd4-e502-49b8-9c6f-b59445bf720b
 Yubico,YubiKey 5 Nano,19083c3d-8383-4b18-bc03-8f1c9ab2fd1b
 Yubico,YubiKey 5 Nano,20ac7a17c814483393fe539f0d5e3389
+Yubico,YubiKey 5 Nano,20ac7a17-c814-4833-93fe-539f0d5e3389
 Yubico,YubiKey 5C,cb69481e-8ff7-4039-93ec-0a2729a154a8
 Yubico,YubiKey 5C,ee882879-721c-4913-9775-3dfcce97072a
 Yubico,YubiKey 5C,20ac7a17c814483393fe539f0d5e3389
 Yubico,YubiKey 5C,19083c3d-8383-4b18-bc03-8f1c9ab2fd1b
 Yubico,YubiKey 5C FIPS,73bb0cd4-e502-49b8-9c6f-b59445bf720b
+Yubico,YubiKey 5C,20ac7a17-c814-4833-93fe-539f0d5e3389
 Yubico,YubiKey 5C Nano,cb69481e-8ff7-4039-93ec-0a2729a154a8
 Yubico,YubiKey 5C Nano,ee882879-721c-4913-9775-3dfcce97072a
 Yubico,YubiKey 5C Nano FIPS,73bb0cd4-e502-49b8-9c6f-b59445bf720b
+Yubico,YubiKey 5C Nano,20ac7a17-c814-4833-93fe-539f0d5e3389
 Yubico,YubiKey 5C NFC,2fc0579f-8113-47ea-b116-bb5a8db9202a
 Yubico,YubiKey 5C NFC FIPS,c1f9a0bc-1dd2-404a-b27f-8e29047a43fd
 Yubico,YubiKey 5Ci,c5ef55ff-ad9a-4b9f-b580-adebafe026d0
 Yubico,YubiKey 5Ci FIPS,85203421-48f9-4355-9bc8-8a53846e5083
 Yubico,YubiKey 5Ci,b90e7dc1316e4feea25a56a666a670fe
 Yubico,YubiKey 5Ci,a02167b9-ae71-4ac7-9a07-06432ebb6f1c
+Yubico,YubiKey 5Ci,b90e7dc1-316e-4fee-a25a-56a666a670fe
 Yubico,Security Key By Yubico,f8a011f3-8c0a-4d15-8006-17111f9edc7d
 Yubico,Security Key By Yubico,b92c3f9a-c014-4056-887f-140a2501163b
 Yubico,Security Key NFC,6d44ba9b-f6ec-2e49-b930-0c8fe920cb73
 Yubico,Security Key NFC,149a2021-8ef6-4133-96b8-81f8d5b7f1f5
-Yubico,YubiKey Bio Series,d8522d9f-575b-4866-88a9-ba99fa02f35b
 Yubico,Security Key NFC by Yubico,a4e9fc6d-4cbe-4758-b8ba-37598bb5bbaa
 Yubico,Security Key NFC by Yubico - Enterprise Edition,0bb43545-fd2c-4185-87dd-feb0b2916ace
 Yubico,Security Key NFC - Enterprise Edition,9ff4cc65-6154-4fff-ba09-9e2af7882ad2
 Yubico,Security Key NFC - Enterprise Edition,47ab2fb4-66ac-4184-9ae1-86be814012d5
 Yubico,Security Key NFC,e77e3c64-05e3-428b-8824-0cbeb04b829d
+Yubico,YubiKey Bio Series,d8522d9f-575b-4866-88a9-ba99fa02f35b
+Yubico,YubiKey Bio Series - Multi-protocol Edition,7d1351a6-e097-4852-b8bf-c9ac5c9ce4a3
+Yubico,YubiKey Bio Series - Multi-protocol Edition,90636e1f-ef82-43bf-bdcf-5255f139d12f
+Yubico,YubiKey Bio Series - FIDO Edition,8c39ee86-7f9a-4a95-9ba3-f6b097e5c2ee
+Yubico,YubiKey Bio Series - Multi-protocol Edition,68167692-ff5a-4ac8-9fd7-0be292a1af68
+Yubico,YubiKey Bio Series - Multi-protocol Edition,97e6a830-c952-4740-95fc-7c78dc97ce47
+
 

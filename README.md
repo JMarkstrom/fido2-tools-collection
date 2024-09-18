@@ -10,8 +10,6 @@
 
 
 ## MDS Checker
-Description
-===========
 MDS Checker is a lightweight Windows utility that provides the following key features:
 
 1. It first reads the AAGUID from an inserted YubiKey
@@ -21,11 +19,14 @@ MDS Checker is a lightweight Windows utility that provides the following key fea
 These features greatly simplify tasks related to AAGUID white-listing and aides the user in assessing the likelihood of performing successful attestation checks.
 
 ### 📖 Usage
-1. Install and run the app
-2. Insert a YubiKey to aquire it's AAGUID
-3. Use the Copy button to copy the AAGUID to clipboard
+1. double-click ```mds-checker.exe``` to run the app
+2. Approve elevation (run-as) when prompted(!)
+3. Insert a YubiKey to aquire it's AAGUID (this happens automatically)
+4. Use the Copy button (shown onlt on successful MDS matching) to copy the AAGUID to clipboard
+5. Optionally paste the AAGUID into your IdP (RP) for white-listing purposes.
 
 **NOTE**: The app must be run as administrator!
+
 
 ## YubiKey PIN Generator
 The [YubiKey PIN Generator](/yubikey-pin-gen.py) is a Python script that facilitates configuration of a YubiKey(s). The script:

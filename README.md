@@ -1,4 +1,4 @@
-# FIDO2 Tools Collection
+# 🧰 FIDO2 Tools Collection
 
 ## Table of Contents  
 [YubiKey PIN Generator](#yubikey-pin-generator)  
@@ -53,7 +53,7 @@ The AAGUID, short for "Authenticator Attestation Globally Unique Identifier" is 
 
 A CSV file containing "all" AAGUIDs can be found [here](https://github.com/JMarkstrom/fido/blob/main/FIDO2-AAGUIDs.csv).
 
-Last updated: ```2024-05-15``` at ```17:00``` CET
+⚠️ Last updated: ```2024-05-15``` at ```17:00``` CET 
 
 # Enable Security Key Logon
 

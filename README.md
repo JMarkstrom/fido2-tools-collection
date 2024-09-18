@@ -73,7 +73,7 @@ The AAGUID, short for "Authenticator Attestation Globally Unique Identifier" is 
 
 A CSV file containing "all" AAGUIDs can be found [here](https://github.com/JMarkstrom/fido/blob/main/FIDO2-AAGUIDs.csv).
 
-⚠️ Last updated: ```2024-05-15``` at ```17:00``` CET 
+⚠️ Last updated: ```2024-09-18``` at ```2:53:00``` CET 
 
 # Enable Security Key Logon
 

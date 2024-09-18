@@ -1,0 +1,46 @@
+   *    (     (                                        
+ (  `   )\ )  )\ )     (      )            )           
+ )\))( (()/( (()/(     )\  ( /(   (     ( /(   (  (    
+((_)()\ /(_)) /(_))  (((_) )\()) ))\ (  )\()) ))\ )(   
+(_()((_|_))_ (_))    )\___((_)\ /((_))\((_)\ /((_|()\  
+|  \/  ||   \/ __|  ((/ __| |(_|_)) ((_) |(_|_))  ((_) 
+| |\/| || |) \__ \   | (__| ' \/ -_) _|| / // -_)| '_| 
+|_|  |_||___/|___/    \___|_||_\___\__||_\_\\___||_|   
+MDS Checker - Readme
+Author: Jonas Markström / swjm.blog
+Version: 1.0.0
+
+Release Date: October 2024
+
+Description
+===========
+MDS Checker is a lightweight Windows utility that provides the following key features:
+
+1. It first reads the AAGUID from an inserted YubiKey
+2. It then checks if the AAGUID exists in the Fido MDS
+3. Lastly, presents the AAGUID in an IdP-friendly format
+
+These features greatly simplify tasks related to AAGUID white-listing and aides the user in assessing the likelihood of performing successful attestation checks.
+
+Usage
+======
+1. double-click mds-checker.exe to run the app
+2. Approve elevation (run-as) when prompted(!)
+3. Insert a YubiKey to aquire it's AAGUID (this happens automatically)
+4. Use the Copy button (shown onlt on successful MDS matching) to copy the AAGUID to clipboard
+5. Optionally paste the AAGUID into your IdP (RP) for white-listing purposes.
+
+NOTE: The app must be run as administrator!
+
+Known Issues
+============
+Currently, the utility does not support multi-device detection.
+
+Changelog
+=========
+Version 1.0.0: Initial release of MDS Checker.
+
+Legal Notices
+==============
+This utility is provided under the Apache License, Version 2.0:
+http://www.apache.org/licenses/LICENSE-2.0

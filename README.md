@@ -1,12 +1,31 @@
 # 🧰 FIDO2 Tools Collection
 
-## Table of Contents  
+## Table of Contents
+[MDS Checker](#mds-checker) 
 [YubiKey PIN Generator](#yubikey-pin-generator)  
 [Assembled list of Fido AAGUIDs ](#assembled-list-of-fido-aaguids)  
 [Enforce Security Key Logon](#enforce-security-key-logon)  
 [Add Kerberos object from on-premise AD to Azure AD](#add-kerberos-object-from-on-premise-ad-to-azure-ad)  
 [Terms of Use (ToU) Passkeys](#terms-of-use-tou-passkeys)  
 
+
+## MDS Checker
+Description
+===========
+MDS Checker is a lightweight Windows utility that provides the following key features:
+
+1. It first reads the AAGUID from an inserted YubiKey
+2. It then checks if the AAGUID exists in the Fido MDS
+3. Lastly, presents the AAGUID in an IdP-friendly format
+
+These features greatly simplify tasks related to AAGUID white-listing and aides the user in assessing the likelihood of performing successful attestation checks.
+
+### 📖 Usage
+1. Install and run the app
+2. Insert a YubiKey to aquire it's AAGUID
+3. Use the Copy button to copy the AAGUID to clipboard
+
+**NOTE**: The app must be run as administrator!
 
 ## YubiKey PIN Generator
 The [YubiKey PIN Generator](/yubikey-pin-gen.py) is a Python script that facilitates configuration of a YubiKey(s). The script:

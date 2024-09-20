@@ -16,11 +16,14 @@ Description
 ===========
 MDS Checker is a lightweight Windows utility that provides the following key features:
 
-1. It first reads the AAGUID from an inserted YubiKey
-2. It then checks if the AAGUID exists in the Fido MDS
-3. Lastly, presents the AAGUID in an IdP-friendly format
+1. Presentation of inserted security key Fido Meta Data Service (MDS) inclusion
+2. Presentation of inserted security key Serial Number (S/N)
+3. Presentation of inserted security key Firmware Version (FW)
+4. Presentation of inserted security key Fido Alliance certification status
+5. Presentation of inserted security key AAGUID in an IdP-friendly format with a copy control
 
 These features greatly simplify tasks related to AAGUID white-listing and aides the user in assessing the likelihood of performing successful attestation checks.
+In addition the utility helps the user assess current or pending security key certification status.
 
 Usage
 ======

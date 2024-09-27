@@ -18,6 +18,8 @@ MDS Checker is a lightweight Windows utility that provides the following key fea
 4. Presentation of inserted security key Fido Alliance certification status
 5. Presentation of inserted security key AAGUID in an IdP-friendly format with a copy control
 
+![](/images/mds-checker.png)
+
 These features greatly simplify tasks related to AAGUID white-listing and aides the user in assessing the likelihood of performing successful attestation checks.
 In addition the utility helps the user assess current or pending security key certification status.
 

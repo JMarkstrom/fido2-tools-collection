@@ -1,8 +1,8 @@
 # 🧰 FIDO2 Tools Collection
 
 ## Table of Contents
-[MDS Checker](#mds-checker) 
-[YubiKey PIN Generator](#yubikey-pin-generator)  
+[MDS Checker](#mds-checker)
+[YubiKey PIN Generator](#yubikey-pin-generator)
 [Assembled list of Fido AAGUIDs ](#assembled-list-of-fido-aaguids)  
 [Enforce Security Key Logon](#enforce-security-key-logon)  
 [Add Kerberos object from on-premise AD to Azure AD](#add-kerberos-object-from-on-premise-ad-to-azure-ad)  
@@ -12,11 +12,11 @@
 ## MDS Checker
 MDS Checker is a lightweight Windows utility that provides the following key features:
 
-1. Presentation of inserted security key Fido Meta Data Service (MDS) inclusion
-2. Presentation of inserted security key Serial Number (S/N)
-3. Presentation of inserted security key Firmware Version (FW)
-4. Presentation of inserted security key Fido Alliance certification status
-5. Presentation of inserted security key AAGUID in an IdP-friendly format with a copy control
+- Presentation of inserted security key Fido Meta Data Service (MDS) inclusion
+- Presentation of inserted security key Serial Number (S/N)
+- Presentation of inserted security key Firmware Version (FW)
+- Presentation of inserted security key Fido Alliance certification status
+- Presentation of inserted security key AAGUID in an IdP-friendly format with a copy control
 
 ![](/images/mds-checker.png)
 

@@ -1,8 +1,8 @@
 # 🧰 FIDO2 Tools Collection
 
 ## Table of Contents
-[MDS Checker](#mds-checker)
-[YubiKey PIN Generator](#yubikey-pin-generator)
+[MDS Checker](#mds-checker)  
+[YubiKey PIN Generator](#yubikey-pin-generator)  
 [Assembled list of Fido AAGUIDs ](#assembled-list-of-fido-aaguids)  
 [Enforce Security Key Logon](#enforce-security-key-logon)  
 [Add Kerberos object from on-premise AD to Azure AD](#add-kerberos-object-from-on-premise-ad-to-azure-ad)  

@@ -16,11 +16,10 @@ Description
 ===========
 MDS Checker is a lightweight Windows utility that provides the following key features:
 
-1. Presentation of inserted security key Fido Meta Data Service (MDS) inclusion
-2. Presentation of inserted security key Serial Number (S/N)
-3. Presentation of inserted security key Firmware Version (FW)
-4. Presentation of inserted security key Fido Alliance certification status
-5. Presentation of inserted security key AAGUID in an IdP-friendly format with a copy control
+1. Presentation of YubiKey Model Name, Image, Firmware Version and Serial Number
+3. Presentation of Fido Meta Data Service (MDS) inclusion (Yes/No)
+4. If present in MDS, presentation of YubiKey FIDO certification(s) e.g. "L1" or "L2"
+5. Presentation of YubiKey AAGUID in an IdP-friendly format with a copy control
 
 These features greatly simplify tasks related to AAGUID white-listing and aides the user in assessing the likelihood of performing successful attestation checks.
 In addition the utility helps the user assess current or pending security key certification status.
@@ -29,7 +28,7 @@ Usage
 ======
 1. double-click mds-checker.exe to run the app
 2. Approve elevation (run-as) when prompted(!)
-3. Insert a YubiKey to aquire it's AAGUID (this happens automatically)
+3. Insert a YubiKey to aquire it's details (this happens automatically)
 4. Use the Copy button (shown only on successful MDS matching) to copy the AAGUID to clipboard
 5. Optionally paste the AAGUID into your IdP (RP) for white-listing purposes.
 

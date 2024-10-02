@@ -43,7 +43,8 @@ NOTE: The app must be run as administrator!
 Known Issues
 ============
 1. Currently, the utility does not support multi-device detection.
-2. Older Yubikeys (lacking FIDO applet) may cause the app to crash
+2. Older Yubikeys (lacking FIDO applet) may cause the app to crash.
+3. Security Key "Enterprise Edition" YubiKeys may be incorrectly indentified.
 
 
 Changelog

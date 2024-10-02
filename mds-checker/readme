@@ -42,7 +42,9 @@ NOTE: The app must be run as administrator!
 
 Known Issues
 ============
-Currently, the utility does not support multi-device detection.
+1. Currently, the utility does not support multi-device detection.
+2. Older Yubikeys (lacking FIDO applet) may cause the app to crash
+
 
 Changelog
 =========

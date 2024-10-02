@@ -23,9 +23,13 @@ MDS Checker is a lightweight Windows utility that provides the following key fea
 _These features greatly simplify tasks related to AAGUID white-listing and aides the user in assessing the likelihood of performing successful attestation checks.
 In addition the utility helps the user assess current or pending security key certification status._
 
+### 💾 Installation
+1. Download the MSI here
+2. Double-click the MSI package to begin installation
+3. Follow on-screen instructions to complete installation.
 
 ### 📖 Usage
-1. double-click ```mds-checker.exe``` to run the app
+1. double-click ```MDS Checker``` desktop shortcut to run the app
 2. Approve elevation (run-as) when prompted(!)
 3. Insert a YubiKey to aquire it's attributes (this happens automatically)
 4. Use the Copy button (shown onlt on successful MDS matching) to copy the AAGUID to clipboard

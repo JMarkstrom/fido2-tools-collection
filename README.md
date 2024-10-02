@@ -24,7 +24,7 @@ _These features greatly simplify tasks related to AAGUID white-listing and aides
 In addition the utility helps the user assess current or pending security key certification status._
 
 ### 💾 Installation
-1. Download the MSI [here](/mds-checker/MDS Checker.msi)
+1. Download the MSI [here](/mds-checker/)
 2. Double-click the MSI package to begin installation
 3. Follow on-screen instructions to complete installation.
 

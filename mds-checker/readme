@@ -8,9 +8,9 @@
 |_|  |_||___/|___/    \___|_||_\___\__||_\_\\___||_|   
 MDS Checker - Readme
 Author: Jonas Markström / swjm.blog
-Version: 1.0.0
+Version: 1.0.2
 
-Release Date: October 2024
+Release Date: October 03 2024
 
 Description
 ===========
@@ -43,12 +43,13 @@ NOTE: The app must be run as administrator!
 Known Issues
 ============
 1. Currently, the utility does not support multi-device detection.
-2. Older Yubikeys (lacking FIDO applet) may cause the app to crash.
-3. Security Key "Enterprise Edition" YubiKeys may be incorrectly indentified.
+2. Older Yubikeys (lacking FIDO applet) may not be correctly indentified.
 
 
 Changelog
 =========
+Version 1.0.2: Corrected identification of FIPS YubiKeys.
+Version 1.0.1: Minor fixes to MSI packaging.
 Version 1.0.0: Initial release of MDS Checker.
 
 Legal Notices

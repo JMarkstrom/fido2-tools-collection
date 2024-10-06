@@ -34,8 +34,8 @@ Usage
 ===========
 1. Double-click MDS Checker desktop shortcut to run the app
 2. Approve elevation (run-as) when prompted(!)
-3. Insert a YubiKey to aquire it's attributes (this happens automatically)
-4. Use the Copy button (shown onlt on successful MDS matching) to copy the AAGUID to clipboard
+3. Insert a YubiKey to acquire it's attributes (this happens automatically)
+4. Use the Copy button to copy the AAGUID to clipboard
 5. Optionally paste the AAGUID into your IdP (RP) for white-listing purposes.
 
 NOTE: The app must be run as administrator!

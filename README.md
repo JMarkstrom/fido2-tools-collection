@@ -12,7 +12,7 @@
 ## Security Key EOBO
 Security Key EOBO (Enrollment On Behalf Of) facilitates Yubikey configuration and enrollment in Microsoft Entra ID.
 
-**NOTE**: This project is found in a separate repository.
+**NOTE**: This project is found in a separate repository [here](https://github.com/JMarkstrom/entra-id-security-key-obo-enrollment).
 
 ## MDS Checker
 MDS Checker is a lightweight Windows utility that provides the following key features:

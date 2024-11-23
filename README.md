@@ -10,7 +10,7 @@
 [Terms of Use (ToU) Passkeys](#terms-of-use-tou-passkeys)  
 
 ## Security Key EOBO
-Security Key EOBO (Enrollment On Behalf Of) is a simple Python script that facilitates Yubikey configuration and enrollment with Microsoft Entra ID.
+Security Key EOBO (Enrollment On Behalf Of) is a simple Python script that facilitates Yubikey configuration and enrollment in Microsoft Entra ID.
 
 **NOTE**: This project is found in a separate repository.
 

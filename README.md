@@ -1,7 +1,7 @@
 # 🧰 FIDO2 Tools Collection
 
 ## Table of Contents
-[Security Key EOBO](#security-key-eobo) 
+[Security Key EOBO](#security-key-eobo)    
 [MDS Checker](#mds-checker)  
 [YubiKey PIN Generator](#yubikey-pin-generator)  
 [Assembled list of Fido AAGUIDs ](#assembled-list-of-fido-aaguids)  

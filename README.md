@@ -12,6 +12,8 @@
 ## Security Key EOBO
 Security Key EOBO (Enrollment On Behalf Of) facilitates Yubikey configuration and enrollment in Microsoft Entra ID.
 
+![](/images/security-key-eobo-with-microsoft-entra-id.1.2.gif)
+
 **NOTE**: This project is found in a separate repository [here](https://github.com/JMarkstrom/entra-id-security-key-obo-enrollment).
 
 ## MDS Checker

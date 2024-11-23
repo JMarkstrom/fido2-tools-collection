@@ -1,6 +1,7 @@
 # 🧰 FIDO2 Tools Collection
 
 ## Table of Contents
+[Security Key EOBO](#security-key-eobo) 
 [MDS Checker](#mds-checker)  
 [YubiKey PIN Generator](#yubikey-pin-generator)  
 [Assembled list of Fido AAGUIDs ](#assembled-list-of-fido-aaguids)  
@@ -8,6 +9,10 @@
 [Add Kerberos object from on-premise AD to Azure AD](#add-kerberos-object-from-on-premise-ad-to-azure-ad)  
 [Terms of Use (ToU) Passkeys](#terms-of-use-tou-passkeys)  
 
+## Security Key EOBO
+Security Key EOBO (Enrollment On Behalf Of) is a simple Python script that facilitates Yubikey configuration and enrollment with Microsoft Entra ID.
+
+**NOTE**: This project is found in a separate repository.
 
 ## MDS Checker
 MDS Checker is a lightweight Windows utility that provides the following key features:

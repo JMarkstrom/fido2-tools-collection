@@ -8,9 +8,9 @@
 |_|  |_||___/|___/    \___|_||_\___\__||_\_\\___||_|   
 MDS Checker - Readme
 Author: Jonas Markström / swjm.blog
-Version: 1.0.3
+Version: 1.0.4
 
-Release Date: October 04 2024
+Release Date: November 27 2024
 
 Description
 ===========
@@ -48,6 +48,7 @@ Known Issues
 
 Changelog
 =========
+Version 1.0.4: Added support for YubiKey BIO "MPE"
 Version 1.0.3: Revised folder structure
 Version 1.0.2: Corrected identification of FIPS YubiKeys.
 Version 1.0.1: Minor fixes to MSI packaging.

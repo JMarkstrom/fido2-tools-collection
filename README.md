@@ -46,7 +46,7 @@ In addition the utility helps the user assess current or pending security key ce
 **NOTE**: The app must be run as administrator!
 
 ## OTP2Serial
-The [OTP2Serial](/OTP2Serial/) app demonstrations convertion of a YubiOTP (Yubico OTP) to a YubiKey Serial Number.
+The [OTP2Serial](/OTP2Serial/) app demonstrates convertion of a YubiOTP (Yubico OTP) to a YubiKey Serial Number.
 
 ![](/images/OTP2Serial.png)
 

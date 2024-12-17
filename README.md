@@ -47,10 +47,14 @@ In addition the utility helps the user assess current or pending security key ce
 
 ## OTP2Serial
 The [OTP2Serial](/OTP2Serial/) app demonstrations convertion of a YubiOTP (Yubico OTP) to a YubiKey Serial Number.
-**NOTE**: The relevant code snipped in C# is provided below.
 
 ![](/images/OTP2Serial.png)
 
+**NOTE**: The relevant code snipped in C# is provided below.
+
+```charp
+// Work in progress
+```
 
 ## YubiKey PIN Generator
 The [YubiKey PIN Generator](/yubikey-pin-gen.py) is a Python script that facilitates configuration of a YubiKey(s). The script:

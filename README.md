@@ -50,7 +50,7 @@ The [OTP2Serial](/OTP2Serial/) app demonstrates convertion of a YubiOTP (Yubico 
 
 ![](/images/OTP2Serial.png)
 
-**NOTE**: The relevant code snipped in C# is provided below.
+**NOTE**: The relevant code snippet in is provided below.
 
 ```csharp
 if (publicId.StartsWith("vv"))

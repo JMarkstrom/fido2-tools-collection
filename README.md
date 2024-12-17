@@ -52,7 +52,7 @@ The [OTP2Serial](/OTP2Serial/) app demonstrates convertion of a YubiOTP (Yubico 
 
 **NOTE**: The relevant code snipped in C# is provided below.
 
-```charp
+```csharp
 if (publicId.StartsWith("vv"))
 {
     publicId = "cc" + publicId.Substring(2);

@@ -53,7 +53,16 @@ The [OTP2Serial](/OTP2Serial/) app demonstrates convertion of a YubiOTP (Yubico 
 **NOTE**: The relevant code snipped in C# is provided below.
 
 ```charp
-// Work in progress
+if (publicId.StartsWith("vv"))
+{
+    publicId = "cc" + publicId.Substring(2);
+}
+
+char[] publicIdArray = { 'c', 'b', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'n', 'r', 't', 'u', 'v' };
+var hexString = string.Concat(publicId.Select(c => Array.IndexOf(publicIdArray, c).ToString("X")));
+
+var serial = Convert.ToInt32(hexString, 16);
+return serial.ToString();
 ```
 
 ## YubiKey PIN Generator

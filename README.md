@@ -45,6 +45,13 @@ In addition the utility helps the user assess current or pending security key ce
 
 **NOTE**: The app must be run as administrator!
 
+### 🥷🏻 Contributing
+You can help by getting involved in the project, _or_ by donating (any amount!).   
+Donations will support costs such as domain registration and code signing (planned).
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=RXAPDEYENCPXS&no_recurring=1&item_name=Help+cover+costs+of+the+SWJM+blog+and+app+code+signing%2C+supporting+a+more+secure+future+for+all.&currency_code=USD)
+
+
 ## OTP2Serial
 The [OTP2Serial](/OTP2Serial/) app demonstrates convertion of a YubiOTP (Yubico OTP) to a YubiKey Serial Number.
 
@@ -64,6 +71,13 @@ var hexString = string.Concat(publicId.Select(c => Array.IndexOf(publicIdArray, 
 var serial = Convert.ToInt32(hexString, 16);
 return serial.ToString();
 ```
+
+### 🥷🏻 Contributing
+You can help by getting involved in the project, _or_ by donating (any amount!).   
+Donations will support costs such as domain registration and code signing (planned).
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=RXAPDEYENCPXS&no_recurring=1&item_name=Help+cover+costs+of+the+SWJM+blog+and+app+code+signing%2C+supporting+a+more+secure+future+for+all.&currency_code=USD)
+
 
 ## YubiKey PIN Generator
 The [YubiKey PIN Generator](/yubikey-pin-gen.py) is a Python script that facilitates configuration of a YubiKey(s). The script:

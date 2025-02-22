@@ -37,7 +37,7 @@ In addition the utility helps the user assess current or pending security key ce
 3. Follow on-screen instructions to complete installation.
 
 ### 📖 Usage
-1. Double-click ```MDS Checker``` desktop shortcut to run the app
+1. Double-click the ```MDS Checker``` desktop shortcut to run the app
 2. Approve elevation (run-as) when prompted(!)
 3. Insert a YubiKey to acquire it's attributes (this happens automatically)
 4. Use the Copy button to copy the AAGUID to clipboard

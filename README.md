@@ -7,7 +7,7 @@
 [YubiKey PIN Generator](#yubikey-pin-generator)  
 [Assembled list of Fido AAGUIDs ](#assembled-list-of-fido-aaguids)  
 [Enforce Security Key Logon](#enforce-security-key-logon)  
-[Add Kerberos object from on-premise AD to Azure AD](#add-kerberos-object-for-entra-id)  
+[Add Kerberos object for Entra ID](#add-kerberos-object-for-entra-id)  
 [Terms of Use (ToU) Passkeys](#terms-of-use-tou-passkeys)  
 
 ## Security Key EOBO

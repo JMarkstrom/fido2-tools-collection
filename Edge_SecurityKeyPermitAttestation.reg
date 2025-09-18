@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; This policy key controls which origins can receive direct security key attestation
+; Each value must be a REG_SZ string, numbered sequentially
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\SecurityKeyPermitAttestation]
+"1"="contoso.com"
+"2"="fabrikam.com"
+"3"="example.org"

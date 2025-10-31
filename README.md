@@ -171,7 +171,7 @@ See: [swjm.blog](https://swjm.blog/implementing-a-fido2-terms-of-use-tou-for-mic
 
 
 ## PIN Hygiene
-See printable example [here](https://github.com/JMarkstrom/fido2-tools-collection/blob/main/YubiKey-PIN-Hygiene-Poster.pdf) and editable source [here](https://github.com/JMarkstrom/fido2-tools-collection/blob/main/YubiKey-PIN-Hygiene-Source.md).
+See printable example (make a sticker?) [here](https://github.com/JMarkstrom/fido2-tools-collection/blob/main/YubiKey-PIN-Hygiene-Poster.pdf) and editable source [here](https://github.com/JMarkstrom/fido2-tools-collection/blob/main/YubiKey-PIN-Hygiene-Source.md).
 
 ![](/images/YubiKey-PIN-Hygiene.png)
 

@@ -8,6 +8,7 @@
 [Enforce Security Key Logon](#enforce-security-key-logon)  
 [Add Kerberos object for Entra ID](#add-kerberos-object-for-entra-id)  
 [Terms of Use (ToU) Passkeys](#terms-of-use-tou-passkeys)  
+[PIN Hygiene (do's and don'ts)](#pin-hygiene)  
 
 ## Security Key EOBO
 Security Key EOBO (Enrollment On Behalf Of) facilitates Yubikey configuration and enrollment in Microsoft Entra ID.
@@ -167,4 +168,11 @@ The [file](https://github.com/JMarkstrom/fido/blob/main/Terms-of-Use-(ToU)-Passk
 ![](/images/ToU.gif)
 
 See: [swjm.blog](https://swjm.blog/implementing-a-fido2-terms-of-use-tou-for-microsoft-entra-637dcb5ca142)
+
+
+## PIN Hygiene
+See printable example [here](https://github.com/JMarkstrom/fido2-tools-collection/blob/main/YubiKey-PIN-Hygiene-Poster.pdf) and editable source [here](https://github.com/JMarkstrom/fido2-tools-collection/blob/main/YubiKey-PIN-Hygiene-Source.md).
+
+![](/images/YubiKey-PIN-Hygiene.png)
+
 

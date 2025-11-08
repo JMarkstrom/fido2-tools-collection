@@ -9,6 +9,7 @@
 [Add Kerberos object for Entra ID](#add-kerberos-object-for-entra-id)  
 [Terms of Use (ToU) Passkeys](#terms-of-use-tou-passkeys)  
 [PIN Hygiene (do's and don'ts)](#pin-hygiene)  
+[AAGUIDs](#aaguids)  
 
 ## Security Key EOBO
 Security Key EOBO (Enrollment On Behalf Of) facilitates Yubikey configuration and enrollment in Microsoft Entra ID.
@@ -174,5 +175,12 @@ See: [swjm.blog](https://swjm.blog/implementing-a-fido2-terms-of-use-tou-for-mic
 See printable example (make a sticker?) [here](https://github.com/JMarkstrom/fido2-tools-collection/blob/main/YubiKey-PIN-Hygiene-Poster.pdf) and source (edit to your liking) [here](https://github.com/JMarkstrom/fido2-tools-collection/blob/main/YubiKey-PIN-Hygiene-Source.md).
 
 ![](/images/YubiKey-PIN-Hygiene.png)
+
+## AAGUIDs
+A searchable and sortable listing of YubiKey AAGUIDs is presented [here](https://jmarkstrom.github.io/aaguids/).
+
+![](/images/aaguids.gif)
+
+
 
 

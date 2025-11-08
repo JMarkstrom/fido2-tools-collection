@@ -181,6 +181,6 @@ A searchable, sortable and _exportable_ listing of YubiKey AAGUIDs is presented 
 
 ![](/images/aaguids.gif)
 
-
+❗This is not an official listing.
 
 

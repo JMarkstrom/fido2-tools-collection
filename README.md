@@ -9,7 +9,7 @@
 [Add Kerberos object for Entra ID](#add-kerberos-object-for-entra-id)  
 [Terms of Use (ToU) Passkeys](#terms-of-use-tou-passkeys)  
 [PIN Hygiene (do's and don'ts)](#pin-hygiene)  
-[AAGUIDs](#aaguids)  
+[YubiKey AAGUIDs](#yubikey-aaguids)  
 
 ## Security Key EOBO
 Security Key EOBO (Enrollment On Behalf Of) facilitates Yubikey configuration and enrollment in Microsoft Entra ID.
@@ -176,7 +176,7 @@ See printable example (make a sticker?) [here](https://github.com/JMarkstrom/fid
 
 ![](/images/YubiKey-PIN-Hygiene.png)
 
-## AAGUIDs
+## YubiKey AAGUIDs
 A searchable, sortable and _exportable_ listing of YubiKey AAGUIDs is presented [here](https://jmarkstrom.github.io/aaguids/).
 
 ![](/images/aaguids.gif)

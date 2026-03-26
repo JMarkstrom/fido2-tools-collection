@@ -7,10 +7,10 @@
 | |\/| || |) \__ \   | (__| ' \/ -_) _|| / // -_)| '_| 
 |_|  |_||___/|___/    \___|_||_\___\__||_\_\\___||_|   
 MDS Checker - Readme
-Author: Jonas Markström / swjm.blog
-Version: 1.0.5
+Author: Jonas Markstrom / swjm.blog
+Version: 1.0.6
 
-Release Date: December 21 2024
+Release Date: March 26 2026
 
 Description
 ===========
@@ -23,6 +23,8 @@ MDS Checker is a lightweight Windows utility that provides the following key fea
 
 These features greatly simplify tasks related to AAGUID white-listing and aides the user in assessing the likelihood of performing successful attestation checks.
 In addition the utility helps the user assess current or pending security key certification status.
+
+The MDS registry file is verified before use (signing certificate chain anchored to a pinned GlobalSign Root R3 and RS256 signature), so only authentic FIDO Alliance blob data is consulted for matching and certification display.
 
 Installation
 ===========
@@ -42,13 +44,13 @@ NOTE: The app must be run as administrator!
 
 Known Issues
 ============
-1. Currently, the utility does not support multi-device detection.
-2. Older Yubikeys (lacking FIDO applet) may not be correctly indentified.
+Yubikeys lacking FIDO applet may not be correctly identified.
 
 
 Changelog
 =========
-Version 1.0.5: Website URL to align with other tools
+Version 1.0.6: Signature checks, performance and layout improvements 
+Version 1.0.5: Website URL to align with other SWJM tools
 Version 1.0.4: Added support for YubiKey BIO "MPE"
 Version 1.0.3: Revised folder structure
 Version 1.0.2: Corrected identification of FIPS YubiKeys

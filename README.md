@@ -2,6 +2,7 @@
 
 ## Table of Contents
 [Security Key EOBO](#security-key-eobo)    
+[EntraYK](#entrayk)    
 [MDS Checker](#mds-checker)  
 [OTP2Serial](#otp2serial)  
 [YubiKey PIN Generator](#yubikey-pin-generator)  
@@ -17,6 +18,13 @@ Security Key EOBO (Enrollment On Behalf Of) facilitates Yubikey configuration an
 ![](/images/security-key-eobo-with-microsoft-entra-id.1.2.gif)
 
 **NOTE**: This project is found in a separate repository [here](https://github.com/JMarkstrom/entra-id-security-key-obo-enrollment).
+
+## EntraYK
+EntraYK is a PowerShell module for managing YubiKeys as device-bound passkeys (FIDO2) in Microsoft Entra ID.
+
+![](https://github.com/JMarkstrom/entraYK/blob/main/images/Set-YubiKeyAuthStrength.png)
+
+**NOTE**: This project is found in a separate repository [here](https://github.com/JMarkstrom/entraYK).
 
 ## MDS Checker
 MDS Checker is a lightweight Windows utility that provides the following key features:

@@ -187,7 +187,7 @@ See printable example (make a sticker?) [here](https://github.com/JMarkstrom/fid
 ## YubiKey AAGUIDs
 A searchable, sortable and _exportable_ listing of YubiKey AAGUIDs is presented [here](https://jmarkstrom.github.io/aaguids/).
 
-![](/images/aaguids.gif)
+![](/images/aaguids.png)
 
 ❗This is not an official listing.
 
